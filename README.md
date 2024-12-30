@@ -3,16 +3,22 @@ This is a simple music player built using Node.js, Express, HTML, CSS, and JavaS
 
 # Features
 Play/Pause music.
+
 Next/Previous track navigation.
+
 Volume control.
+
 Seek bar to skip within tracks.
+
 Random track selection.
+
 Repeat track functionality.
+
 Simple, responsive user interface.
 
 # Tech Stack
 Backend: Node.js, Express.js
-Frontend: HTML, CSS, JavaScript
-Package Manager: npm
 
-![upload](https://github.com/user-attachments/assets/425d59af-b368-407d-b48d-5de4f5888ad9)
+Frontend: HTML, CSS, JavaScript
+
+Package Manager: npm
